@@ -11,7 +11,7 @@ public class Cart {
 
     private Integer quantity;
 
-    private Integer checked;
+    private Integer checked;//是否选中状态
 
     private Date createTime;
 
